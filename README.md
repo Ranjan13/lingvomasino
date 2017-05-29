@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Language of Machines
 
 You can use the [Language of Machines](http://www.lingvomasino.com) to learn about:
 1. Machine Learning
 2. Natural Language Processing
 3. Natural Language Understanding
-
+If you are an enthusiast who wants to contribute feel free to email us at: lingvomasino@gmail.com
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
